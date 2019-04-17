@@ -1,6 +1,8 @@
 # Introduction to Deep Learning course resources
 https://www.coursera.org/learn/intro-to-deep-learning
 
+# Linux
+
 ## Offline instructions
 Coursera Jupyter Environment can be slow if many learners use it heavily. 
 Our tasks are compute-heavy and we recommend to run them on your hardware for optimal performance.
